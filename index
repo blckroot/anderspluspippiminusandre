@@ -1,0 +1,381 @@
+.
+|-- Dette
+|   |-- 6.kanal
+|   |-- Dette.mak
+|   |-- ana6
+|   |   `-- write.log
+|   |-- desktop.ini
+|   `-- error0.txt
+|-- anders
+|   |-- 0c3db93474b21894637ad67601cc0fad6c9a45
+|   |-- 259be7d81ee1d4bbf1bcb48692025fd0e75c8e
+|   |-- 2eff833dbda1c358d10b4c73d2cf6b359e72f1
+|   |-- 4260v6.tar.gz -> 6v420[1]
+|   |-- 60d2cd7fc7ede6c95a595717827ff0024ac789
+|   |-- 6v420[1]
+|   |-- 74f45b4ad0453337aac80bf792d3d069bac39e
+|   |-- 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+|   |-- COMMIT_EDITMSG
+|   |-- HEAD
+|   |-- README
+|   |-- README.md
+|   |-- a91c8be26fc8ad6e379e7b732ee8e270d2d686
+|   |-- applypatch-msg.sample
+|   |-- c20716b730f612e4dfe131371dff048bd7ea17
+|   |-- cb1dd7c42a5267375cbdbb3b9628bf4da0de8e
+|   |-- commit-msg.sample
+|   |-- config
+|   |-- de4dd31e95be6a3f58ab5f2498e1d4953e8340
+|   |-- description
+|   |-- do
+|   |-- e7d9c589355c2568421b0ce461db1232ceb38b
+|   |-- exclude
+|   |-- fsmonitor-watchman.sample
+|   |-- gjeld.HB
+|   |-- index
+|   |-- master
+|   |-- master-of-todo.zip
+|   |-- post-update.sample
+|   |-- pre-applypatch.sample
+|   |-- pre-commit.sample
+|   |-- pre-merge-commit.sample
+|   |-- pre-push.sample
+|   |-- pre-rebase.sample
+|   |-- pre-receive.sample
+|   |-- prepare-commit-msg.sample
+|   |-- push-to-checkout.sample
+|   |-- tardis
+|   |-- tardis.tgz
+|   |-- tasks
+|   |-- todo
+|   `-- update.sample
+|-- andre
+|   |-- Dette
+|   |   |-- hack
+|   |   |   |-- graffiti.txt
+|   |   |   `-- version.txt
+|   |   `-- tag
+|   |-- README.md -> tasks
+|   |-- tasks
+|   `-- todo
+|       |-- README
+|       |-- do
+|       |-- git
+|       |   |-- COMMIT_EDITMSG
+|       |   |-- HEAD
+|       |   |-- branches
+|       |   |-- config
+|       |   |-- description
+|       |   |-- hooks
+|       |   |   |-- applypatch-msg.sample
+|       |   |   |-- commit-msg.sample
+|       |   |   |-- fsmonitor-watchman.sample
+|       |   |   |-- post-update.sample
+|       |   |   |-- pre-applypatch.sample
+|       |   |   |-- pre-commit.sample
+|       |   |   |-- pre-merge-commit.sample
+|       |   |   |-- pre-push.sample
+|       |   |   |-- pre-rebase.sample
+|       |   |   |-- pre-receive.sample
+|       |   |   |-- prepare-commit-msg.sample
+|       |   |   |-- push-to-checkout.sample
+|       |   |   `-- update.sample
+|       |   |-- index
+|       |   |-- info
+|       |   |   `-- exclude
+|       |   |-- logs
+|       |   |   |-- HEAD
+|       |   |   `-- refs
+|       |   |       |-- heads
+|       |   |       |   `-- master
+|       |   |       `-- remotes
+|       |   |           `-- master
+|       |   |               `-- master
+|       |   |-- objects
+|       |   |   |-- 29
+|       |   |   |   `-- 2eff833dbda1c358d10b4c73d2cf6b359e72f1
+|       |   |   |-- 2b
+|       |   |   |   `-- c20716b730f612e4dfe131371dff048bd7ea17
+|       |   |   |-- 4e
+|       |   |   |   `-- cb5e8e92358f7bf23531d3420d5d18925ab3fa
+|       |   |   |-- 62
+|       |   |   |   `-- 60d2cd7fc7ede6c95a595717827ff0024ac789
+|       |   |   |-- 64
+|       |   |   |   `-- e7d9c589355c2568421b0ce461db1232ceb38b
+|       |   |   |-- 89
+|       |   |   |   `-- 0c3db93474b21894637ad67601cc0fad6c9a45
+|       |   |   |-- 8a
+|       |   |   |   `-- 74f45b4ad0453337aac80bf792d3d069bac39e
+|       |   |   |-- 91
+|       |   |   |   `-- a91c8be26fc8ad6e379e7b732ee8e270d2d686
+|       |   |   |-- b1
+|       |   |   |   `-- 259be7d81ee1d4bbf1bcb48692025fd0e75c8e
+|       |   |   |-- bc
+|       |   |   |   `-- cb1dd7c42a5267375cbdbb3b9628bf4da0de8e
+|       |   |   |-- e6
+|       |   |   |   `-- 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+|       |   |   |-- f5
+|       |   |   |   `-- de4dd31e95be6a3f58ab5f2498e1d4953e8340
+|       |   |   |-- info
+|       |   |   `-- pack
+|       |   `-- refs
+|       |       |-- heads
+|       |       |   `-- master
+|       |       |-- remotes
+|       |       |   `-- master
+|       |       |       `-- master
+|       |       `-- tags
+|       |-- gjeld.HB
+|       |-- master-of-todo.zip
+|       |-- tardis
+|       |-- tardis.tgz
+|       `-- todo
+|-- pippianders
+|   |-- 0c3db93474b21894637ad67601cc0fad6c9a45
+|   |-- 259be7d81ee1d4bbf1bcb48692025fd0e75c8e
+|   |-- 2eff833dbda1c358d10b4c73d2cf6b359e72f1
+|   |-- 420v6.tgz
+|   |-- 60d2cd7fc7ede6c95a595717827ff0024ac789
+|   |-- 74f45b4ad0453337aac80bf792d3d069bac39e
+|   |-- 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+|   |-- COMMIT_EDITMSG
+|   |-- HEAD
+|   |-- README
+|   |-- README.md
+|   |-- a91c8be26fc8ad6e379e7b732ee8e270d2d686
+|   |-- applypatch-msg.sample
+|   |-- c20716b730f612e4dfe131371dff048bd7ea17
+|   |-- cb1dd7c42a5267375cbdbb3b9628bf4da0de8e
+|   |-- commit-msg.sample
+|   |-- config
+|   |-- de4dd31e95be6a3f58ab5f2498e1d4953e8340
+|   |-- description
+|   |-- do
+|   |-- e7d9c589355c2568421b0ce461db1232ceb38b
+|   |-- exclude
+|   |-- fsmonitor-watchman.sample
+|   |-- gjeld.HB
+|   |-- index
+|   |-- master
+|   |-- master-of-todo.zip
+|   |-- post-update.sample
+|   |-- pre-applypatch.sample
+|   |-- pre-commit.sample
+|   |-- pre-merge-commit.sample
+|   |-- pre-push.sample
+|   |-- pre-rebase.sample
+|   |-- pre-receive.sample
+|   |-- prepare-commit-msg.sample
+|   |-- push-to-checkout.sample
+|   |-- tardis
+|   |-- tardis.tgz
+|   |-- tasks
+|   |-- todo
+|   `-- update.sample
+|-- theory
+|   |-- README
+|   |-- string
+|   |   |-- anders.sorted.pippi
+|   |   |-- anderspippi.strings
+|   |   |-- pippianders.strings.txt
+|   |   |-- sorted.strings.txt
+|   |   `-- src
+|   |       `-- ancient.tar
+|   `-- theory
+|       |-- string
+|       |   |-- README
+|       |   |-- meread.txt
+|       |   |-- string
+|       |   |   |-- README
+|       |   |   |-- anders.sorted.pippi
+|       |   |   |-- anderspippi.strings
+|       |   |   |-- meread.txt
+|       |   |   |-- pippianders.strings.txt
+|       |   |   |-- sorted.strings.txt
+|       |   |   |-- src
+|       |   |   |   `-- ancient.tar
+|       |   |   |-- string
+|       |   |   |   `-- meread.txt
+|       |   |   |-- stringtheories
+|       |   |   |   `-- string
+|       |   |   |       |-- anders.sorted.pippi
+|       |   |   |       |-- anderspippi.strings
+|       |   |   |       |-- pippianders.strings.txt
+|       |   |   |       |-- sorted.strings.txt
+|       |   |   |       `-- src
+|       |   |   |           `-- ancient.tar
+|       |   |   `-- theory
+|       |   |       `-- string
+|       |   |           |-- anders.sorted.pippi
+|       |   |           |-- anderspippi.strings
+|       |   |           |-- pippianders.strings.txt
+|       |   |           |-- sorted.strings.txt
+|       |   |           `-- src
+|       |   |               `-- ancient.tar
+|       |   |-- stringtheories
+|       |   |   `-- string
+|       |   |       |-- anders.sorted.pippi
+|       |   |       |-- anderspippi.strings
+|       |   |       |-- pippianders.strings.txt
+|       |   |       |-- sorted.strings.txt
+|       |   |       `-- src
+|       |   |           `-- ancient.tar
+|       |   `-- theory
+|       |       `-- string
+|       |           |-- anders.sorted.pippi
+|       |           |-- anderspippi.strings
+|       |           |-- pippianders.strings.txt
+|       |           |-- sorted.strings.txt
+|       |           `-- src
+|       |               `-- ancient.tar
+|       |-- stringtheories
+|       |   |-- README.sl -> theory/README
+|       |   |-- string
+|       |   |   |-- anders.sorted.pippi
+|       |   |   |-- anderspippi.strings
+|       |   |   |-- pippianders.strings.txt
+|       |   |   |-- sorted.strings.txt
+|       |   |   `-- src
+|       |   |       `-- ancient.tar
+|       |   `-- theory
+|       `-- theory
+|           |-- README.sl -> theory/README
+|           |-- string
+|           |   |-- anders.sorted.pippi
+|           |   |-- anderspippi.strings
+|           |   |-- pippianders.strings.txt
+|           |   |-- sorted.strings.txt
+|           |   `-- src
+|           |       `-- ancient.tar
+|           `-- theory
+|               |-- README
+|               |-- derandreanderspippi
+|               |   |-- 0c3db93474b21894637ad67601cc0fad6c9a45
+|               |   |-- 259be7d81ee1d4bbf1bcb48692025fd0e75c8e
+|               |   |-- 2eff833dbda1c358d10b4c73d2cf6b359e72f1
+|               |   |-- 420v6.tgz
+|               |   |-- 60d2cd7fc7ede6c95a595717827ff0024ac789
+|               |   |-- 74f45b4ad0453337aac80bf792d3d069bac39e
+|               |   |-- 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+|               |   |-- COMMIT_EDITMSG
+|               |   |-- HEAD
+|               |   |-- README
+|               |   |-- README.md
+|               |   |-- a91c8be26fc8ad6e379e7b732ee8e270d2d686
+|               |   |-- applypatch-msg.sample
+|               |   |-- c20716b730f612e4dfe131371dff048bd7ea17
+|               |   |-- cb1dd7c42a5267375cbdbb3b9628bf4da0de8e
+|               |   |-- commit-msg.sample
+|               |   |-- config
+|               |   |-- de4dd31e95be6a3f58ab5f2498e1d4953e8340
+|               |   |-- description
+|               |   |-- do
+|               |   |-- doc
+|               |   |   |-- COMMIT_EDITMSG.html
+|               |   |   |-- HEAD.html
+|               |   |   |-- README.html
+|               |   |   |-- README_md.html
+|               |   |   |-- applypatch-msg_sample.html
+|               |   |   |-- commit-msg_sample.html
+|               |   |   |-- config.html
+|               |   |   |-- created.rid
+|               |   |   |-- css
+|               |   |   |   |-- fonts.css
+|               |   |   |   `-- rdoc.css
+|               |   |   |-- description.html
+|               |   |   |-- do.html
+|               |   |   |-- doc -> .
+|               |   |   |-- exclude.html
+|               |   |   |-- fonts
+|               |   |   |   |-- Lato-Light.ttf
+|               |   |   |   |-- Lato-LightItalic.ttf
+|               |   |   |   |-- Lato-Regular.ttf
+|               |   |   |   |-- Lato-RegularItalic.ttf
+|               |   |   |   |-- SourceCodePro-Bold.ttf
+|               |   |   |   `-- SourceCodePro-Regular.ttf
+|               |   |   |-- fsmonitor-watchman_sample.html
+|               |   |   |-- gjeld_HB.html
+|               |   |   |-- images
+|               |   |   |   |-- add.png
+|               |   |   |   |-- arrow_up.png
+|               |   |   |   |-- brick.png
+|               |   |   |   |-- brick_link.png
+|               |   |   |   |-- bug.png
+|               |   |   |   |-- bullet_black.png
+|               |   |   |   |-- bullet_toggle_minus.png
+|               |   |   |   |-- bullet_toggle_plus.png
+|               |   |   |   |-- date.png
+|               |   |   |   |-- delete.png
+|               |   |   |   |-- find.png
+|               |   |   |   |-- loadingAnimation.gif
+|               |   |   |   |-- macFFBgHack.png
+|               |   |   |   |-- package.png
+|               |   |   |   |-- page_green.png
+|               |   |   |   |-- page_white_text.png
+|               |   |   |   |-- page_white_width.png
+|               |   |   |   |-- plugin.png
+|               |   |   |   |-- ruby.png
+|               |   |   |   |-- tag_blue.png
+|               |   |   |   |-- tag_green.png
+|               |   |   |   |-- transparent.png
+|               |   |   |   |-- wrench.png
+|               |   |   |   |-- wrench_orange.png
+|               |   |   |   `-- zoom.png
+|               |   |   |-- index.html
+|               |   |   |-- js
+|               |   |   |   |-- darkfish.js
+|               |   |   |   |-- jquery.js
+|               |   |   |   |-- navigation.js
+|               |   |   |   |-- navigation.js.gz
+|               |   |   |   |-- search.js
+|               |   |   |   |-- search_index.js
+|               |   |   |   |-- search_index.js.gz
+|               |   |   |   |-- searcher.js
+|               |   |   |   `-- searcher.js.gz
+|               |   |   |-- master.html
+|               |   |   |-- post-update_sample.html
+|               |   |   |-- pre-applypatch_sample.html
+|               |   |   |-- pre-commit_sample.html
+|               |   |   |-- pre-merge-commit_sample.html
+|               |   |   |-- pre-push_sample.html
+|               |   |   |-- pre-rebase_sample.html
+|               |   |   |-- pre-receive_sample.html
+|               |   |   |-- prepare-commit-msg_sample.html
+|               |   |   |-- push-to-checkout_sample.html
+|               |   |   |-- table_of_contents.html
+|               |   |   |-- tardis.html
+|               |   |   |-- tasks.html
+|               |   |   |-- todo.html
+|               |   |   `-- update_sample.html
+|               |   |-- docs -> doc
+|               |   |-- e7d9c589355c2568421b0ce461db1232ceb38b
+|               |   |-- exclude
+|               |   |-- fsmonitor-watchman.sample
+|               |   |-- gjeld.HB
+|               |   |-- index
+|               |   |-- master
+|               |   |-- master-of-todo.zip
+|               |   |-- post-update.sample
+|               |   |-- pre-applypatch.sample
+|               |   |-- pre-commit.sample
+|               |   |-- pre-merge-commit.sample
+|               |   |-- pre-push.sample
+|               |   |-- pre-rebase.sample
+|               |   |-- pre-receive.sample
+|               |   |-- prepare-commit-msg.sample
+|               |   |-- push-to-checkout.sample
+|               |   |-- tardis
+|               |   |-- tardis.tgz
+|               |   |-- tasks
+|               |   |-- todo
+|               |   `-- update.sample
+|               `-- string
+|                   |-- anders.sorted.pippi
+|                   |-- anderspippi.strings
+|                   |-- pippianders.strings.txt
+|                   |-- sorted.strings.txt
+|                   `-- src
+|                       `-- ancient.tar
+`-- tree.log
+
+76 directories, 303 files
